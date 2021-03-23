@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\bin\Debug\netcoreapp3.1\FactorialN.exe
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\bin\Debug\netcoreapp3.1\FactorialN.deps.json
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\bin\Debug\netcoreapp3.1\FactorialN.runtimeconfig.json
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\bin\Debug\netcoreapp3.1\FactorialN.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\bin\Debug\netcoreapp3.1\FactorialN.dll
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\bin\Debug\netcoreapp3.1\FactorialN.pdb
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\obj\Debug\netcoreapp3.1\FactorialN.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\obj\Debug\netcoreapp3.1\FactorialN.Form1.resources
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\obj\Debug\netcoreapp3.1\FactorialN.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\obj\Debug\netcoreapp3.1\FactorialN.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\obj\Debug\netcoreapp3.1\FactorialN.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\obj\Debug\netcoreapp3.1\FactorialN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\obj\Debug\netcoreapp3.1\FactorialN.dll
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\obj\Debug\netcoreapp3.1\FactorialN.pdb
+C:\Users\Usuario\source\repos\FactorialN\FactorialN\obj\Debug\netcoreapp3.1\FactorialN.genruntimeconfig.cache
